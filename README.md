@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafees Kausar</h1>
-<h3 align="center">🎍 India's Hyderabad is where I currently reside. Right now, I'm working with Javascript-based technologies. Technologies like NodeJS and ReactJS. Typically, I create intricate and elegant components for design systems and react applications that use UI components. I work in the fields of product design, front-end development, design systems engineering, UI engineering, and related design disciplines. TailwindCSS and Figma make up my tech stack. I am familiar with JavaScript, C, C++, and Java.</h3>
+<h4 align="center">🎍 India's Hyderabad is where I currently reside. Right now, I'm working with Javascript-based technologies.</h4>
+<h3>Technologies like NodeJS and ReactJS. Typically, I create intricate and elegant components for design systems and react applications that use UI components.
+I work in the fields of product design, front-end development, design systems engineering, UI engineering, and related design disciplines.
+TailwindCSS and Figma make up my tech stack.I am familiar with JavaScript, C, C++, and Java.</h3>
 
 - 🔭 I’m currently working on **StudyNotion**
 
