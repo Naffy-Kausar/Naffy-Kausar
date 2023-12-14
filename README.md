@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nafees Kausar</h1>
-<h4 align="center">🎍 India's Hyderabad is where I currently reside. Right now, I'm working with Javascript-based technologies.</h4>
-<h3>Technologies like NodeJS and ReactJS. Typically, I create intricate and elegant components for design systems and react applications that use UI components.
-I work in the fields of product design, front-end development, design systems engineering, UI engineering, and related design disciplines.
-TailwindCSS and Figma make up my tech stack.I am familiar with JavaScript, C, C++, and Java.</h3>
+<p align="center">🎍 India's Hyderabad is where I currently reside. Right now, I'm working with <b>Javascript-based technologies</b>.</p>
+<p>Technologies like <b>NodeJS and ReactJS</b>. Typically, I create intricate and elegant components for design systems and react applications that use UI components.
+I work in the fields of product design, <b>front-end development</b>, design systems engineering, UI engineering, and related design disciplines.
+<b>TailwindCSS and Figma</b> make up my tech stack.I am familiar with <b>JavaScript, C, C++, and Java</b>.</h3>
+<p>🚀 Fueling the tech revolution at StudyNotion as a dynamic Full Stack Developer and Architect, where I orchestrate brilliance using a symphony of JavaScript, ReactJS, ExpressJS, and MongoDB for the backend magic. 🌐 Design aficionado, sculpting visually stunning interfaces with the finesse of Tailwind CSS. ✨
+🧠 Fluent in the languages of logic—C, C++, Java—navigating the realms of complexity and creativity. 💡 I'm not just a coder; I'm a digital maestro, transforming ideas into scalable, user-centric marvels. 🖥️ Passion pulsates through my veins for problem-solving, innovation, and perpetual learning. 📚 Let's collaborate and shape the digital landscape together! 💻</p>
 
 - 🔭 I’m currently working on **StudyNotion**
 
